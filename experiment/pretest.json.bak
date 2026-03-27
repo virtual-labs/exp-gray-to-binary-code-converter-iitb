@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which of the following is binary number?",
+    "qid": 1,
+    "option_a": "10100",
+    "option_b": "30",
+    "option_c": "2E6",
+    "option_d": "None of the above",
+    "correct_option": "a"
+  },
+  {
+    "question": "The Gray code is ___ code?",
+    "qid": 2,
+    "option_a": "Unweighted",
+    "option_b": "Unit Distance",
+    "option_c": "Both of the above",
+    "option_d": "None of the above",
+    "correct_option": "c"
+  },
+  {
+    "question": "3-bit Gray to Binary code converter can be easily implemented using which of the following IC's?",
+    "qid": 3,
+    "option_a": "74LS138 and Additional gates",
+    "option_b": "74LS93 and Additional gates",
+    "option_c": "74LS90 and Additional gates",
+    "option_d": "74LS76",
+    "correct_option": "a"
+  },
+  {
+    "question": "Gray code = 111,  Binary Number = 101 State that above conversion is correct or not?",
+    "qid": 4,
+    "option_a": "Correct",
+    "option_b": "Incorrect",
+    "option_c": "",
+    "option_d": "",
+    "correct_option": "a"
+  },
+  {
+    "question": "Gray code = 011, Binary Number = 001 State that above conversion is correct or not?",
+    "qid": 5,
+    "option_a": "Correct",
+    "option_b": "Incorrect",
+    "option_c": "",
+    "option_d": "",
+    "correct_option": "b"
+  }
+]
