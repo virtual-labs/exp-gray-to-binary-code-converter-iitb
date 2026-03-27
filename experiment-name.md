@@ -1,0 +1,1 @@
+## Design of Gray to Binary code converter using MSI ICs
